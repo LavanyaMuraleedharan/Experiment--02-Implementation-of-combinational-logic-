@@ -64,11 +64,13 @@ endmodule
 
 ## Timing Diagram
 
-![Uploading exp 2(1).png…]()
+### F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+
+![exp 2(1)](https://user-images.githubusercontent.com/120103862/233448490-bde5a4e7-3465-45cb-8e95-49a796d61035.png)
+
+### F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 ![exp2(2)](https://user-images.githubusercontent.com/120103862/233446842-1ef9acbf-a8d4-459f-a747-f5e7aae8e322.png)
-
-               
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
