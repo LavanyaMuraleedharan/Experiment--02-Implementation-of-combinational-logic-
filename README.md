@@ -26,6 +26,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 5.End the verilog program using keyword endmodule.
 ## Program:
+```
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Lavanya M
@@ -48,6 +49,7 @@ output f2;
 assign f2=(~y&z)|(x&y)|(w&y);
 endmodule
 /*
+```
 
 # Output:
 
